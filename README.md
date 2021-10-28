@@ -6,7 +6,7 @@
 
 #### The website is responsive and the entire front-end is developed using HTML, CSS and a little bit of Javascript
 
-#### The website is focused on sharing blogs, currently the blogs are copied from some websites and I've given source for each blog to avoid Plagarism
+#### The website is focused on sharing blogs, currently the blogs are copied from some websites and I've given source for each blog to avoid plagiarism
 
 #### The images are taken from unDraw and Adobe Sparks as they are free
 

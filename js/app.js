@@ -4,7 +4,7 @@ var btnInput = document.querySelector("#btn")
 
 function clickHandler(){
     window.location.reload(false); 
-    alert("Congratulations!! You've sucessfully subscribe us. You'll regularly recieve email from us regarding healthCare🏥")
+    alert("Congratulations!! You've successfully subscribed us. We'll regularly send you emails regarding healthCare🏥")
 }
 
 btnInput.addEventListener("click",clickHandler)

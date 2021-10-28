@@ -12,9 +12,7 @@ body {
     margin: 0%;
 }
 
-hr {
-    margin: 2rem 0rem;
-}
+
 
 .padding-md {
     padding: 2rem;
@@ -60,7 +58,9 @@ hr {
     padding: 0rem 0.5rem;
 }
 
-
+nav:hover{
+    background-color: var(--secondary-color);
+}
 .navigation {
     background-color: var(--primary-color);
     color: white;
@@ -129,7 +129,7 @@ hr {
 }
 
 #textarea:hover{
-    border: 3px solid black;
+    border: 0.10rem solid black;
     background-color: var(--off-white);
     color: var(--secondary-color);  
 }
@@ -145,10 +145,11 @@ hr {
 }
 
 #btn:hover{
-    border: 3px solid black;
+    border: 0.10rem solid black;
     background-color: var(--off-white);
     color: var(--secondary-color);
 }
+
 
 .footer {
     background-color: var(--primary-color);

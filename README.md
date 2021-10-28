@@ -1,6 +1,6 @@
 # healthlify.github.io
 
-#### Healthlify is developed by [Soumyajoy!](https://soumyajoydas01.github.io/)
+#### [Healthlify](https://soumyajoydas01.github.io/healthlify.github.io/) is developed by [Soumyajoy!](https://soumyajoydas01.github.io/)
 
 #### Healthlify is developed in the Hackathon Web-O-Code(BVEST 2021) conducted by Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi
 
